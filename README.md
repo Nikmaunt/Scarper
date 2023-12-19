@@ -1,4 +1,4 @@
-Test.
+Test task.
 
 Using Node.js and the Puppeteer library (you can connect additional npm packages at your discretion, such as cheerio and others), you need to collect information about all products in the category of the site DNS-shop.ru (https://www.dns-shop.ru/ catalog/17a8d26216404e77/vstraivaemye-xolodilniki/).
 
